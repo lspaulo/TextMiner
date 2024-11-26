@@ -1,6 +1,6 @@
-<p align="center"> <img src="img/foto.jpgcor", width="300px"> </p></img>
+<p align="center"> <img src="img/foto.jpg", width="300px"> </p></img>
 
-<p align="center"><img src="https://img.shields.io/badge/Python-100%25-yellow"> <img src="https://img.shields.io/github/languages/code-size/lspaulo/TextMiner?color=yellow">
+<p align="center"><img src="https://img.shields.io/badge/Python-100%25-yellow">
 
 ------
  
